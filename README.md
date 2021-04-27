@@ -1,4 +1,4 @@
-# demotask
+# Demotask
 
 ## Project setup
 ```
